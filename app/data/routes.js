@@ -1,7 +1,7 @@
 const data = [
   {
     path: '/',
-    label: 'Michael D\'Angelo',
+    label: 'Jiayi Bao',
     index: true,
   },
   {
@@ -9,16 +9,16 @@ const data = [
     label: 'About',
   },
   {
-    path: '/resume',
-    label: 'Resume',
+    path: '/research',
+    label: 'Research',
   },
   {
-    path: '/projects',
-    label: 'Projects',
+    path: '/teaching',
+    label: 'Teaching',
   },
   {
-    path: '/stats',
-    label: 'Stats',
+    path: '/cv',
+    label: 'CV',
   },
   {
     path: '/contact',

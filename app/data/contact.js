@@ -7,6 +7,7 @@ import faTwitter from '@fortawesome/fontawesome-free-brands/faTwitter';
 import faEnvelope from '@fortawesome/fontawesome-free-regular/faEnvelope';
 
 const data = [
+  /*
   {
     link: 'https://github.com/mldangelo',
     label: 'Github',
@@ -37,8 +38,9 @@ const data = [
     label: 'Twitter',
     icon: faTwitter,
   },
+  */
   {
-    link: 'mailto:michael.l.dangelo@gmail.com',
+    link: 'mailto:jiayibao@wharton.upenn.edu',
     label: 'Email',
     icon: faEnvelope,
   },

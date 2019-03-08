@@ -5,7 +5,27 @@ import ReactMarkdown from 'react-markdown';
 
 import Main from '../layouts/Main';
 
-import markdown from '../data/about.md';
+import markdown from '../data/cv.md';
+
+/*
+import Personal from '../components/CV/Personal';
+import Site from '../components/CV/Site';
+
+const CV = () => (
+  <Main>
+    <Helmet title="CV" />
+    <article className="post" id="cv">
+      <header>
+        <div className="title">
+          <h2><Link to="/cv">CV</Link></h2>
+        </div>
+      </header>
+      <Personal />
+      <Site />
+    </article>
+  </Main>
+);
+*/
 
 const count = markdown.split(/\s+/)
   .map(s => s.replace(/\W/g, ''))
@@ -14,13 +34,13 @@ const count = markdown.split(/\s+/)
 // Make all hrefs react router links
 const LinkRenderer = ({ ...children }) => <Link {...children} />;
 
-const About = () => (
+const CV = () => (
   <Main>
-    <Helmet title="About" />
-    <article className="post" id="about">
+    <Helmet title="CV" />
+    <article className="post" id="cv">
       <header>
         <div className="title">
-          <h2><Link to="/about">About Me</Link></h2>
+          <h2><Link to="/cv">CV</Link></h2>
           <p></p>
         </div>
       </header>
@@ -35,4 +55,4 @@ const About = () => (
   </Main>
 );
 
-export default About;
+export default CV;

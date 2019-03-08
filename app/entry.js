@@ -7,9 +7,9 @@ import {
 // Featured
 import Index from './views/Index';
 import About from './views/About';
-import Projects from './views/Projects';
-import Resume from './views/Resume';
-import Stats from './views/Stats';
+import Teaching from './views/Teaching';
+import Research from './views/Research';
+import CV from './views/CV';
 import Contact from './views/Contact';
 
 import NotFound from './views/NotFound';
@@ -22,10 +22,10 @@ ReactDOM.render(
     <Switch>
       <Route exact path="/" component={Index} />
       <Route path="/about" component={About} />
-      <Route path="/projects" component={Projects} />
-      <Route path="/stats" component={Stats} />
+      <Route path="/teaching" component={Teaching} />
+      <Route path="/cv" component={CV} />
       <Route path="/contact" component={Contact} />
-      <Route path="/resume" component={Resume} />
+      <Route path="/research" component={Research} />
       {/* Only useful in development mode */}
       <Route component={NotFound} status={404} />
     </Switch>

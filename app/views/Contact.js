@@ -2,11 +2,14 @@ import React, { useState, useEffect, useRef } from 'react';
 import { Link } from 'react-router-dom';
 import Helmet from 'react-helmet';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import ReactMarkdown from 'react-markdown';
 
 import Main from '../layouts/Main';
 
 import data from '../data/contact';
+import markdown from '../data/contact.md';
 
+/*
 // Validates the first half of an email address.
 const validateText = (text) => {
   // NOTE: Passes RFC 5322 but not tested on google's standard.
@@ -109,5 +112,35 @@ const Contact = () => {
     </Main>
   );
 };
+*/
+
+const count = markdown.split(/\s+/)
+  .map(s => s.replace(/\W/g, ''))
+  .filter(s => s.length).length;
+
+// Make all hrefs react router links
+const LinkRenderer = ({ ...children }) => <Link {...children} />;
+
+const Contact = () => (
+  <Main>
+    <Helmet title="Contact" />
+    <article className="post" id="contact">
+      <header>
+        <div className="title">
+          <h2><Link to="/contact">Contact</Link></h2>
+          <p></p>
+        </div>
+      </header>
+      <ReactMarkdown
+        source={markdown}
+        renderers={{
+          Link: LinkRenderer,
+        }}
+        escapeHtml={false}
+      />
+    </article>
+  </Main>
+);
+
 
 export default Contact;
