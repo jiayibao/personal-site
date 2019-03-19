@@ -1,10 +1,5 @@
 const progress = [
   {
-    school: 'Job Market Paper',
-    author: '',
-    degree: 'Why Firms Offer Dicey Perks? The Case of Unlimited Vacation'
-  },
-  {
     school: 'Currently in Data Analysis',
     author: '',
     degree: 'Social Safety Nets and Innovation'

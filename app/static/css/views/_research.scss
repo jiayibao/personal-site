@@ -74,15 +74,27 @@
 	.degree {
 		margin-bottom: .1em;
 		text-transform: none;
-		letter-spacing: 0.16em;
-		font-size: .8em;
+		letter-spacing: 0.1em;
+		font-size: 1em;
 	}
 
 	.school {
 		text-transform: none;
 		padding-top: 0.3em;
 		margin-bottom: 1em;
+		font-size: 0.9em;
+		letter-spacing: 0.1em;
 	}
+}
+
+.abstract {
+	margin-bottom: .1em;
+	text-transform: none;
+	letter-spacing: 0.1em;
+	line-height: 150%;
+	font-size: 0.9em;
+	padding-top: 0.5em;
+	padding-bottom: 2em;
 }
 
 

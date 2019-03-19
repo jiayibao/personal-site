@@ -1,11 +1,13 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
+
 const Degree = ({ data }) => (
   <article className="degree-container">
     <header>
-      <h4 className="degree"><a href={data.link}>{data.degree}</a></h4>
-      <p className="school">{data.author}<font color="blue">{data.school}</font>, {data.year} </p>
+      <h4 className="degree"><a href={data.link} target="_blank"><b>{data.degree}</b></a></h4>
+      <p className="school">{data.author}<font color="blue">{data.school}</font>, {data.year}</p> 
+      <p className="abstract"><u>Abstract:</u> {data.abstract}</p>
     </header>
   </article>
 );
