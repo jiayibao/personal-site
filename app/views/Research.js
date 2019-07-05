@@ -31,7 +31,7 @@ const Research = () => (
                 <a href={`#${sec.toLowerCase()}`}>{sec}</a>
               </h4>))}
           </div>
-
+         
         </div>
       </header>
       <Publications data={degrees} />

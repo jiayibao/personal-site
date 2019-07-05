@@ -15,7 +15,7 @@ const Index = () => (
       <p> 
       I am a PhD Candidate in <a href="https://bepp.wharton.upenn.edu" target="_blank">Business Economics and Public Policy</a> at  
       <a href="https://www.wharton.upenn.edu" target="_blank"> the Wharton School</a>. 
-      I study human capital and workplace problems in entrepreneurial settings, using a combination of theoretical modeling, econometric analysis, and experimental design. 
+      My research focuses on human capital strategy and workplace diversity issues in different contexts of entrepreneurial forms and phases, drawing from the rich interplay of phenomenon and theory at the intersection of strategy, human resource management, and entrepreneurship. Linking macro patterns to micro behavior, my work exploits a variety of methods including theoretical modeling, qualitative data analysis, econometric analysis of archival data, and experimental design. 
       My Wharton page is <a href="https://bepp.wharton.upenn.edu/profile/jiayibao" target="_blank">here</a>. 
       </p>
     </article>

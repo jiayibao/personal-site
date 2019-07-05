@@ -1,5 +1,11 @@
 
 const positions = [
+{
+    school: 'Job Market Paper',
+    author: '',
+    degree: '(How) Do Risky Perks Benefit Firms? The Case of Unlimited Vacation',
+    abstract: 'This paper addresses the phenomenon of the changing workplaces brought about by new technologies and the birth of innovative yet risky perks that endow flexibility and autonomy to workers in startup companies. While useful as a strategic management tool for recruiting talent, these perks come with a potential management dilemma—the very nature of autonomy and flexibility implies that firms also face risks of abuse by indolent or disloyal workers. Zooming in on an increasingly popular perk of unlimited vacation, I recognize the divided views among practitioners about the actual effects of the perk and the lack of empirical basis for understanding new workplace trends alike. Documenting stylized facts about what types of firms are more likely to adopt unlimited vacation and drawing insights from how heterogeneous workers perceive the perk, I develop a conceptual framework that highlights the contingent effects of the perk, both in terms of vertical fit with business strategy and horizontal fit with other HR practices. A formal economic model implies that firms are more likely to benefit from unlimited vacation when they have greater business needs for high-skilled talent and when they can impose strong firing threats associated with performance management. In a randomized controlled experiment with an online labor market, I find that unlimited vacation can offer strategic benefits to firms in three major ways: (1) attracting the more capable candidates to the recruitment pool, (2) creating complementarity to work that makes people more productive through multiple channels, and (3) inducing extra work outputs from happier workers. A strong firing threat associated with performance management reduces the likelihood of slacking, suggesting the need for appropriate horizontal alignment of HR practices to effectively curb opportunism.'
+  },
   {
     school: '2nd R&R at Organization Science',
     author: '(with Tiantian Yang and Howard Aldrich), ',
@@ -30,12 +36,6 @@ const positions = [
     degree: 'When Time-Off Sparks Time-At-Work',
     abstract: 'This paper studies how the adoption of paid vacation as a human resource practice impacts organizations in the context of new ventures. I find that the provision of paid vacation to employees positively affects both short-term venture revenue and long-term survival. I then investigate why. I do not find empirical support that paid vacation helps ventures to attract better talent. The results are most consistent with an incentive story that paid vacation brings about organizational gains by incentivizing workers to take actual time off which ultimately improves their productivity at work.'
   },
-  {
-    school: 'Job Market Paper',
-    author: '',
-    degree: 'Why Firms Offer Dicey Perks? The Case of Unlimited Vacation',
-    abstract: 'The use of employee perks is becoming increasingly important to organizational competitiveness as firms are experiencing recruiting difficulty. Typically, firms introduce perks to attract workers to stay at the workplace. However, another set of perks that makes it easier for people to leave the workplace has gained more popularity over time. These perks, exemplified by unlimited vacation, attract talent, but can also be “dicey,” presenting costs and risks to firms when abused by workers. Motivated by a content analysis of qualitative benefits reviews about unlimited vacation, I establish a theoretical model to predict how heterogeneous workers respond to the perk and when firms should adopt it. I test the predictions via a randomized controlled experiment with an online labor market by recruiting workers to a one-month job. I find that unlimited vacation can offer strategic benefits to firms in three major ways: (1) attracting the more capable candidates to the recruitment pool, (2) creating complementarity to work that makes people more productive, and (3) inducing extra work outputs from happier workers. Furthermore, a strong firing threat undermines the attractiveness of unlimited vacation, but reduces the likelihood of slacking and nudges workers to produce more. Finally, workers under unlimited vacation on average take more vacation time than their counterparts under capped vacation.'
-  }
   //, 
 ];
 

@@ -9,6 +9,12 @@ const progress = [
     author: '',
     degree: 'Overshooting in Startup Fundraising: A Doomed Bubble or a Great Lie?'
   },
+  {
+    school: 'Currently in Data Analysis',
+    author: '',
+    degree: 'Gender Differences in Founder HR Strategy and What Works When? Evidence from New Ventures in Innovation Industries'
+  },
 ];
+
 
 export default progress;
