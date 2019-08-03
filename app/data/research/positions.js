@@ -28,7 +28,7 @@ const positions = [
     school: 'Working Paper',
     author: '(with Andy Wu), ',
     degree: 'Equality and Equity in Compensation',
-    abstract: 'Do workers have different equality preferences depending on the type of payoff? In firms offering equity compensation (i.e., stock options), the distribution of equity compensation often differs more substantively than the distribution of cash salary. We design an experimental group production game to examine how workers respond to combinations of different distributions of equity and salary. Results suggest that workers view salary and equity in two separate domains, and they are more inequality averse in the equity domain. Furthermore, we find a presentation effect underlying inequality aversion in different payoffs: the separation of the two domains is only triggered when equity is shown in a different percentage form from the absolute form of salary.'
+    abstract: 'Do workers have different equality preferences depending on the type of payoff? In firms offering equity compensation (i.e., stock options), the distribution of equity compensation often differs substantively from the distribution of cash salary. We design an experimental group production game to examine how workers respond to combinations of different distributions of equity and salary. Results suggest that workers view salary and equity in two separate domains, and they are more inequality averse in the equity domain. Furthermore, we find a presentation effect underlying inequality aversion in different payoffs: the separation of the two domains is only triggered when equity is shown in a different percentage form from the absolute form of salary.'
   }, 
    {
     school: 'Working Paper',
