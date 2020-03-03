@@ -7,6 +7,7 @@ const Job = ({ data }) => (
     <header>
       <h4 className="degree"><b>{data.degree}</b></h4>
       <p className="school">{data.author}<font color="blue">{data.school}</font> </p>
+      <p className="abstract"><u>Abstract:</u> {data.abstract}</p>
     </header>
   </article>
 );
