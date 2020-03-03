@@ -7,7 +7,8 @@ const Degree = ({ data }) => (
     <header>
       <h4 className="degree"><a href={data.link} target="_blank"><b>{data.degree}</b></a></h4>
       <p className="school">{data.author}<font color="blue">{data.school}</font>, {data.year}</p> 
-      <p className="abstract"><u>Abstract:</u> {data.abstract}</p>
+     
+      
     </header>
   </article>
 );
@@ -20,5 +21,6 @@ Degree.propTypes = {
     year: PropTypes.number.isRequired,
   }).isRequired,
 };
+
 
 export default Degree;
