@@ -1,34 +1,34 @@
 
 const positions = [
 {
-    school: 'Job Market Paper',
-    author: '',
-    degree: '(How) Do Risky Perks Benefit Firms? The Case of Unlimited Vacation',
+    school: '',
+    author: 'Bao, Jiayi',
+    degree: '(How) Do Risky Perks Benefit Firms? The Case of Unlimited Vacation.',
     abstract: 'This paper addresses the recent organizational trend of offering unlimited vacation to employees. While potentially useful for acquiring human capital benefits, unlimited vacation is a risky perk for firms due to the possibility of abuse. I examine whether and how unlimited vacation benefits firms through a multi-method study using three empirical settings. Setting 1 provides new background information on macro-patterns of unlimited vacation adoption based on qualitative online benefits reviews. Setting 2 illustrates how unlimited vacation is carried out in the field context of a large high-tech company. I find that access to the perk increases employees’ subjective productivity, with the effect strengthened in close-knit teams but becoming negative in teams with weak interpersonal relationships. Guided by a theoretical model predicting how heterogeneous workers respond to unlimited vacation, I remove social complexities in Setting 3 and cleanly examine the effects of unlimited vacation in itself through a randomized controlled trial with two experiments, hiring online workers for a month-long job (n=631). In Experiment 1, I vary worker type (high- vs. low-performers), work contract (typical unlimited vacation, typical capped vacation, or a choice between the two), and firing threat (strong vs. weak). In Experiment 2, I introduce additional contract treatments to separate out the vacation feature from other features (i.e., a performance expectation and no attendance checks) in a typical unlimited vacation contract. I find that a typical unlimited vacation contract (1) is three times more attractive to high-performers, (2) increases worker productivity by 51%, where 20-30% comes directly from the vacation feature, and (3) induces extra outputs from happier workers. A strong firing threat conditional on performance reduces slacking rate by 45%. This paper demonstrates how managers can create a highly skilled, productive, and motivated workforce through the perk of unlimited vacation. It further highlights the contingencies based on organizational conditions such as social dynamics, bundled HR practices, and the culture for punishing under-performance.'
   },
    {
-    school: 'Working Paper',
-    author: '(with Tiantian Yang and Ming Leung), ',
-    degree: 'Approaching or Avoiding: Gender Asymmetry in Reactions to Prior Job Search Experience',
+    school: '',
+    author: 'Yang, Tiantian, Jiayi Bao, and Ming Leung',
+    degree: 'Approaching or Avoiding: Gender Asymmetry in Reactions to Prior Job Search Experience.',
     abstract: 'This paper presents a novel investigation into how supply-side job seeking interacts with demand-side hiring decisions to reproduce occupational gender segregation. The authors theorize that because female job seekers are less confident of their ability in male-typed jobs than their male counterparts, they will be more responsive to cues from employers. Specifically, job application success will encourage female job seekers to approach similar work in the future; employers’ rejections, on the other hand, will be particularly discouraging, leading women to avoid similar work in the future. Analyses of a longitudinal dataset of three million applications for IT and programming jobs from an online freelancing platform support the theory. Past job-seeking experience, either positive or negative, exerted a stronger effect on how women, compared to men, approached or avoided applying to IT and programming. Because failure is the more prevalent outcome, female freelancers stop applying to male-typed jobs quicker than males. In contrast, analyses in the female-typed writing and translation field did not reveal similar gender patterns. Gender asymmetries in response to employers’ hiring decisions reproduce occupational gender segregation by reducing women’s representation in male-typed but not female-typed fields. Implications for research on gender segregation, careers and hiring are discussed.'
   }, 
    {
-    school: 'Working Paper',
-    author: '(with Tiantian Yang and Maria Triana), ',
-    degree: 'Against All Odds: Why Black Entrepreneurs Are More Motivated and Persistent and Spite of Lower Business Success',
+    school: '',
+    author: 'Yang, Tiantian,  Maria Triana, and Jiayi Bao',
+    degree: 'Against All Odds: Why Black Entrepreneurs Are More Motivated and Persistent and Spite of Lower Business Success.',
     abstract: 'Grounded in AMO (ability, motivation, opportunity) theory, this study takes a first step toward bringing race back into the entrepreneurship literature to predict how the race of the founding entrepreneur (i.e., Black or White) influences motivation to start a business and subsequent persistence and performance. We describe how, due to historic and present-day societal discrimination, Blacks tend to have fewer opportunities in the highest-ranking positions of Corporate America, and they are underrepresented in the upper echelons relative to their proportion of the workforce. Such barriers to Blacks in wage employment motivate them to enter and persist in entrepreneurship despite their lower odds of success. Using a sample from the Panel Study of Entrepreneurial Dynamics II (PSED II), we find that Black potential entrepreneurs have fewer relevant skills to start a business (e.g., less managerial experience) compared to White potential entrepreneurs, yet they have stronger motivation to start a business to make new opportunities for themselves and their families. We also find that Black individuals are more likely to start businesses than White individuals, and that although Black entrepreneurs are less financially successful than White entrepreneurs, they are more persistent than White entrepreneurs. The positive association between Black entrepreneurs’ race and business persistence is partially mediated by higher levels of motivation to run one’s own business.'
   }, 
    {
-    school: 'Working Paper',
-    author: '(with Andy Wu), ',
-    degree: 'Equality and Equity in Compensation',
+    school: '',
+    author: 'Bao, Jiayi and Andy Wu',
+    degree: 'Inequality Aversion Across Different Payoffs: Presentation Effect of Equity Compensation.',
     abstract: 'Do workers have different equality preferences depending on the type of payoff? In firms offering equity compensation (i.e., stock options), the distribution of equity compensation often differs substantively from the distribution of cash salary. We design an experimental group production game to examine how workers respond to combinations of different distributions of equity and salary. Results suggest that workers view salary and equity in two separate domains, and they are more inequality averse in the equity domain. Furthermore, we find a presentation effect underlying inequality aversion in different payoffs: the separation of the two domains is only triggered when equity is shown in a different percentage form from the absolute form of salary.'
   }, 
    {
-    school: 'Working Paper',
-    author: '',
-    degree: 'When Time-Off Sparks Time-At-Work',
-    abstract: 'This paper studies how the adoption of paid vacation as a human resource practice impacts organizations in the context of new ventures. I find that the provision of paid vacation to employees positively affects both short-term venture revenue and long-term survival. I then investigate why. I do not find empirical support that paid vacation helps ventures to attract better talent. The results are most consistent with an incentive story that paid vacation brings about organizational gains by incentivizing workers to take actual time off which ultimately improves their productivity at work.'
+    school: '',
+    author: 'Bao, Jiayi',
+    degree: 'Social Safety Net and New Venture Performance: The Case of New Jersey Paid Family Leave Program.',
+    abstract: 'Despite a large literature on how institutional environments shape venture formation, little is known about how social safety nets for employees at entrepreneurial firms influence business performance post the founding stage. This paper examines how employees’ access to state-sponsored paid family leave impacts the profitability of new ventures by exploiting the 2009 New Jersey Paid Family Leave (PFL) program. Using a difference-in-differences design, I find that the state PFL program adversely affects the likelihood of making profits for the average new venture. The negative effect is stronger for businesses in greater financial stress and those that are more reliant on incumbent employees, suggesting two operating mechanisms—the lack of financial resources and the lack of flexibility in staffing—that render new ventures particularly vulnerable to human capital shocks as a result of institutional changes. Innovative ventures, however, experience an asymmetric effect and are more likely to be profitable post treatment. Taken together, this study combines institutional perspectives, employment topics, and human resource considerations to highlight that social safety nets for workers may have unintended consequences for nascent businesses, especially considering the heterogeneity in how ventures can absorb these impacts.'
   },
   //, 
 ];
