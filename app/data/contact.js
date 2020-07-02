@@ -40,7 +40,7 @@ const data = [
   },
   */
   {
-    link: 'mailto:jiayibao@wharton.upenn.edu',
+    link: 'mailto:jiayibao@email.unc.edu',
     label: 'Email',
     icon: faEnvelope,
   },

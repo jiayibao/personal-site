@@ -2,7 +2,7 @@ const progress = [
   {
     school: 'Currently in Data Analysis',
     author: '',
-    degree: 'Social Safety Nets and Innovation'
+    degree: 'Social Safety Net and Innovation: Evidence from the USPTO Patent Data'
   },
   {
     school: 'Currently in Experimental Design',
