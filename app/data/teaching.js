@@ -1,17 +1,17 @@
 // TODO Add a couple lines about each project
 const data = [
   {
+    school: 'University of North Carolina at Chapel Hill',
+    author: 'Instructor',
+    degree: 'ECON 125 Introduction to Entrepreneurship (UG)',
+    year: 'Fall 2020',
+  },
+  {
     school: 'Harvard Business School Case 719-496',
     author: 'Case Study by Laura Huang, Andy Wu, and Jiayi Bao',
     degree: 'Boxed',
     year: 'April 2019',
     abstract: 'Abstract: Boxed.com ("Boxed") is an ambitious e-commerce retailer start-up, founded by visionary CEO Chieh Huang in 2013. From starting in Huang’s garage in 2013, to winning Emerging E-Retailer of the Year in 2016, to having 4 operational distribution centers in 2018, Boxed used a variety of strategies in order to gain customers and grow its presence. This case explores the journey that the scrappy, new entrant navigated as it competed against large, goliath players in an already established retail and e-commerce industry.',
-  },
-  {
-    school: 'University of North Carolina at Chapel Hill',
-    author: 'Instructor',
-    degree: 'ECON 125 Introduction to Entrepreneurship (UG)',
-    year: 'Fall 2020',
   },
   {
     school: 'The Wharton School',

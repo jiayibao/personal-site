@@ -14,7 +14,7 @@ const Teaching = () => (
       <header>
         <div className="title">
           <h2><Link to="/teaching">Teaching</Link></h2>
-          <p></p>
+          <p>To reserve a time during my office hours, go to: <font color="blue"><a href="https://calendly.com/jiayibao/" target="_blank">https://calendly.com/jiayibao/</a></font></p>
         </div>
       </header>
       {data.map(project => (
