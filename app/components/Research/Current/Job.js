@@ -5,7 +5,7 @@ import PropTypes from 'prop-types';
 const Job = ({ data }) => (
   <article className="degree-container">
     <header>
-      <h4 className="degree">{data.author}. <font color="black">{data.degree}</font> {data.school}</h4>
+      <h4 className="degree">{data.author}. <font color="black">{data.degree} </font> <font color="blue">{data.school} </font> </h4>
       <p></p>
       <p className="abstract"><u>Abstract:</u> {data.abstract}</p>
     </header>
