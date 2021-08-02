@@ -21,7 +21,8 @@ const positions = [
    {
     school: '',
     author: 'Bao, Jiayi, Andy Wu, and Miaomiao Zhang',
-    degree: 'Compensation Dispersion in Organizational-Performance Pay.'
+    degree: 'Compensation Dispersion in Organizational-Performance Pay.',
+    abstract: 'This paper examines the performance implications of compensation dispersion or compression under organizational-performance pay scheme, where individual compensation depends on the performance of the organization, in two complementary settings. Study 1 exploits an exogenous change in the dispersion of shares of team-based rewards for professional eSports athletes. We find that high shares motivate athletes to individually contribute more to the team, whereas low shares demoralize athletes into making lower individual contributions. Overall, share dispersion leads to lower aggregate team performance relative to share compression. In Study 2, we conduct a controlled experiment with online workers and consistently find that share dispersion negatively impacts team performance. We show additional evidence that the negative effect is specific to organizational-performance pay scheme but does not apply to fixed pay scheme and disappears when social comparison is not salient.'
   }, 
   //, 
 ];
