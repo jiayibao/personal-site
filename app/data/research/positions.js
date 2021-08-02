@@ -21,8 +21,7 @@ const positions = [
    {
     school: '',
     author: 'Bao, Jiayi, Andy Wu, and Miaomiao Zhang',
-    degree: 'Compensation Dispersion in Organizational-Performance Pay.',
-    abstract: ''
+    degree: 'Compensation Dispersion in Organizational-Performance Pay.'
   }, 
   //, 
 ];
