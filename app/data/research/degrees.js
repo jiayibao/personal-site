@@ -1,10 +1,10 @@
 const degrees = [
   {
-    school: 'Organization Science',
+    school: 'Organization Science 31 (6): 1313-1620',
     author: 'Yang, Tiantian, Jiayi Bao, and Howard Aldrich',
     degree: 'The Paradox of Resource Provision in Entrepreneurial Teams: Between Self-Interest and the Collective Enterprise.',
-    link: 'https://pubsonline.informs.org/doi/10.1287/orsc.2019.1354',
-    year: 'Forthcoming'
+    link: 'https://pubsonline.informs.org/doi/abs/10.1287/orsc.2019.1354',
+    year: '2020'
   }, 
   {
     school: 'The BE Journal of Economic Analysis & Policy 15 (4): 1619-1655',

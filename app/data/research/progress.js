@@ -6,8 +6,8 @@ const progress = [
   },
   {
     school: 'Currently in Experimental Design',
-    author: '',
-    degree: 'Overshooting in Startup Fundraising: A Doomed Bubble or a Great Lie?'
+    author: 'with Tiantian Yang, Ming Leung, Tianna Barnes',
+    degree: 'Self-Presentation and Racial Hiring Inequality: Evidence from a Low Wage Market'
   },
   {
     school: 'Currently in Data Analysis',
