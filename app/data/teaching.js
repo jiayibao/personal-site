@@ -3,14 +3,14 @@ const data = [
   {
     school: 'University of North Carolina at Chapel Hill',
     author: 'Instructor',
-    degree: 'PLCY 581 Research Design for Public Policy (UG)',
-    year: 'Spring 2021 - Fall 2021',
+    degree: 'ECON 125 Introduction to Entrepreneurship (UG)',
+    year: 'Fall 2020 - Fall 2021',
   },
   {
     school: 'University of North Carolina at Chapel Hill',
     author: 'Instructor',
-    degree: 'ECON 125 Introduction to Entrepreneurship (UG)',
-    year: 'Fall 2020 - Fall 2021',
+    degree: 'PLCY 581 Research Design for Public Policy (UG)',
+    year: 'Spring 2021 - Fall 2021',
   },
   {
     school: 'Harvard Business School Case 719-496',
