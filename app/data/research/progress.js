@@ -1,7 +1,7 @@
 const progress = [
   {
-    school: 'In preparation for Strategic Management Journal, Funded by an NSF award',
-    author: '(with Marwa Ibrahim)',
+    school: 'In preparation for Strategic Management Journal',
+    author: '(with Marwa Ibrahim) ',
     degree: 'Social Safety Net and Entrepreneurship Participation: The Role of Health Insurance Coverage'
   },
   {
@@ -16,7 +16,7 @@ const progress = [
   },
     {
     school: 'Data analysis in progress',
-    author: '(with Adams Bailey)',
+    author: '(with Adams Bailey) ',
     degree: 'Social Safety Net and Innovation: Evidence from Educational Assistance'
   },
       {
