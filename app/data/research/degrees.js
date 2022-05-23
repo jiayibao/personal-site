@@ -1,9 +1,9 @@
 const degrees = [
   {
-    school: 'Strategic Management Journal, Accepted and Forthcoming',
+    school: 'Strategic Management Journal, Accepted and Published Online',
     author: 'Bao, Jiayi',
     degree: 'Social Safety Net and New Venture Performance: The Role of Employee Access to Paid Family Leave Benefits.',
-    link: '',
+    link: 'https://doi.org/10.1002/smj.3430',
     year: '2022'
   }, 
   {
