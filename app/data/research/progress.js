@@ -16,8 +16,8 @@ const progress = [
   },
         {
     school: 'Data analysis in progresss',
-    author: '',
-    degree: 'Paid Family Leave Benefits and Female Inventor Mobility'
+    author: '(with Po-Yuan Huang) ',
+    degree: 'Paid Family Leave Benefits and Innovation Gap in Pink'
   },
           {
     school: 'Data analysis in progresss',
