@@ -6,23 +6,23 @@ const progress = [
   },
     {
     school: 'Data analysis in progress',
-    author: '(with Adams Bailey) ',
-    degree: 'Social Safety Net and Innovation: Evidence from Educational Assistance'
-  },
-      {
-    school: 'Data analysis in progress',
     author: '(with Miaomiao Zhang) ',
     degree: 'Artificial Intelligence Regulation and Entrepreneurial Entry : Evidence from the Autonomous Vehicle Industry'
   },
         {
     school: 'Data analysis in progresss',
     author: '(with Po-Yuan Huang) ',
-    degree: 'Paid Family Leave Benefits and Innovation Gap in Pink'
+    degree: 'Paid Family Leave Benefits and the Entrepreneurial Gap in Pink'
   },
           {
     school: 'Data analysis in progresss',
     author: '(with Joonho Oh) ',
     degree: 'Makerspaces and Entrepreneurial Social Focus'
+  },
+    {
+    school: 'Data analysis in progress',
+    author: '(with Adams Bailey) ',
+    degree: 'Social Safety Net and Innovation: Evidence from Educational Assistance'
   },
 ];
 
