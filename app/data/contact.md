@@ -1,5 +1,5 @@
-Email: [jiayibao@email.unc.edu](mailto:jiayibao@email.unc.edu)
+Email: [jbao@mays.tamu.edu](mailto:jbao@mays.tamu.edu)
 <br>
 
-Address: 131 South Columbia Street, CB# 3435, Chapel Hill, NC 27599
+Address: 4221 TAMU, College Station, TX 77843
 

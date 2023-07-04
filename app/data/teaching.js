@@ -1,10 +1,22 @@
 // TODO Add a couple lines about each project
 const data = [
   {
+    school: 'Mays Business School, Texas A&M University',
+    author: 'Instructor',
+    degree: 'MGMT 637 Foundations of Entrepreneurship (MS)',
+    year: 'Fall 2023',
+  },
+    {
+    school: 'Mays Business School, Texas A&M University',
+    author: 'Instructor',
+    degree: 'MGMT 376/SOCI 376 Entrepreneurial Perspectives (UG)',
+    year: 'Fall 2023',
+  },
+    {
     school: 'University of North Carolina at Chapel Hill',
     author: 'Instructor',
     degree: 'ECON 125 Introduction to Entrepreneurship (UG)',
-    year: 'Fall 2020 - Fall 2022',
+    year: 'Fall 2020 - Spring 2023',
   },
   {
     school: 'University of North Carolina at Chapel Hill',
